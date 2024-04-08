@@ -2,4 +2,4 @@
 
 Aperçu de la card :
 
-![alt text]('./public/card.png')
+![alt text](./public/card.png)
